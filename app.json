@@ -34,14 +34,22 @@
          "description": "Your bot token. Get one from @BotFather duh",
          "required": true,
          "value": ""
+
    "env": {
       "API_ID": {
          "description": "get it from my telegram org",
          "required": true,
          "value": ""
+
    "env": {
       "API_HASH": {
          "description": "GET it frm my.telegram.org",
          "required": true,
+         "value": ""
+    
+   "env": {
+      "DB_URI": {
+         "description": "Database",
+         "required": false,
          "value": ""
     
